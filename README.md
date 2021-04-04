@@ -1,8 +1,4 @@
-<p align="center">
-  <video controls>
-    <source src="demo/Hospital.mp4" type="video/mp4">
-  </video>
-</p>
+
 # Hospital-Management-System
 ### It is web site that
 * User can book with any doctor who work in the hospital , and select the appropriate time and on the appropriate day . 
